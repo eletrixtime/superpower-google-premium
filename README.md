@@ -7,7 +7,7 @@ Requirements :
 - Python (311)
 - And the ZIP of the extension 
 
-`Website to use :
+Website to use :
       
       - https://crxextractor.com/ (to download the crx)
       - https://www.ezyzip.com/convert-crx-to-zip.html (to convert crx to zip)
